@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara20hamdy&label=Profile%20views&color=0e75b6&style=flat" alt="sara20hamdy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@saraham87655781" target="blank"><img src="https://img.shields.io/twitter/follow/@saraham87655781?logo=twitter&style=for-the-badge" alt="@saraham87655781" /></a> </p>
-![about me](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F125878564%2F258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif&f=1&nofb=1&ipt=7442656b43bdec476a1edc5e00ff022fb85d3c54d4f71043b9464e4eeb871d58&ipo=images)
+
 - 👨‍💻 All of my projects are available at [https://github.com/s4r4h4mdy0x01/Portfolio](https://github.com/s4r4h4mdy0x01/Portfolio)
 - 🌱 I’m currently learning **Software Development**
 
