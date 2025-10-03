@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sara.hamdy0x01@gmail.com" target="_blank">
+  <a href="mailto:sara101hamdy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/s4r4h4mdy0x01" target="_blank">
@@ -41,7 +41,7 @@
     <br>
     「 Contact me at: <b>sara.hamdy0x01@gmail.com</b> 」
     <br><br>
-    <a href="https://drive.google.com/file/d/1M3iRa2UODidQkqrrBOamWjZWpQ42jbUr/view?usp=sharing" target="_blank">[Download my Resume]</a>
+    <a href="https://drive.google.com/file/d/11f6xtSw0WPSloM2t0LuVbQP_IC7nwAl2/view?usp=sharing" target="_blank">[Download my Resume]</a>
     <br>
   </samp>
 </p>
