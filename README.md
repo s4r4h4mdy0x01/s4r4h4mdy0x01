@@ -32,7 +32,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Contact me at: <b>sara.hamdy0x01@gmail.com</b> 」
+    「 Contact me at: <b>sara101hamdy@gmail.com</b> 」
     <br><br>
     <a href="https://drive.google.com/file/d/14WSS-ZljU1z9x1bdEPNUNJ9aB_vgJWso/view?usp=sharing"_blank">[Download my Resume]</a>
     <br>
